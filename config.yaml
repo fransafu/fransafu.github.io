@@ -3,6 +3,8 @@ languageCode: en-us
 title: Fransafu's Blog
 theme: hugo-PaperMod
 
+publishDir: docs
+
 disableLanguages: ["de", "es"]
 
 languages:
@@ -18,4 +20,3 @@ languages:
     languageName: Spanish
     contentDir: content/spanish
     weight: 1
-
