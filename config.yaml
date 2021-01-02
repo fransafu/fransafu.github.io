@@ -1,0 +1,21 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Fransafu's Blog
+theme: hugo-PaperMod
+
+disableLanguages: ["de", "es"]
+
+languages:
+  en:
+    languageName: English
+    contentDir: content/english
+    weight: 1
+  de:
+    languageName: German
+    contentDir: content/german
+    weight: 1
+  es:
+    languageName: Spanish
+    contentDir: content/spanish
+    weight: 1
+
