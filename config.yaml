@@ -1,11 +1,11 @@
 baseURL: https://fransafu.github.io/
 languageCode: en-us
 title: Fransafu's Blog
-theme: hugo-PaperMod
+theme: hello-friend-ng
 
 publishDir: docs
 
-disableLanguages: ["de", "es"]
+disableLanguages: ["de"]
 
 languages:
   en:
