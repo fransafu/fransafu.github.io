@@ -7,11 +7,16 @@ author:
 type:
 - post
 - posts
+tags:
+- zsh
+- ec2
+- amazon
+- linux
 series:
-- ZSH
-- EC2
-- Amazon
-- Linux
+- zsh
+- ec2
+- amazon
+- linux
 ---
 
 Hi There!

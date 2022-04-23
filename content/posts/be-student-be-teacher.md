@@ -7,9 +7,11 @@ author:
 type:
 - post
 - posts
+tags:
+- reflexion
 weight: 10
 series:
-- Reflexion
+- reflexion
 ---
 
 be student,  
