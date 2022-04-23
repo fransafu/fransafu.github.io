@@ -5,7 +5,13 @@
     <loc>https://www.fransafu.dev/posts/2022/04/be-student-be-teacher-be-student/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.fransafu.dev/tags/amazon/</loc>
+    <lastmod>2022-04-23T05:39:58-04:00</lastmod>
+  </url><url>
     <loc>https://www.fransafu.dev/series/amazon/</loc>
+    <lastmod>2022-04-23T05:39:58-04:00</lastmod>
+  </url><url>
+    <loc>https://www.fransafu.dev/tags/ec2/</loc>
     <lastmod>2022-04-23T05:39:58-04:00</lastmod>
   </url><url>
     <loc>https://www.fransafu.dev/series/ec2/</loc>
@@ -27,6 +33,9 @@
     <loc>https://www.fransafu.dev/posts/2022/04/install-oh-my-zsh-on-amazon-linux/</loc>
     <lastmod>2022-04-23T05:39:58-04:00</lastmod>
   </url><url>
+    <loc>https://www.fransafu.dev/tags/linux/</loc>
+    <lastmod>2022-04-23T05:39:58-04:00</lastmod>
+  </url><url>
     <loc>https://www.fransafu.dev/series/linux/</loc>
     <lastmod>2022-04-23T05:39:58-04:00</lastmod>
   </url><url>
@@ -46,8 +55,27 @@
                 href="https://www.fransafu.dev/series/"
                 />
   </url><url>
+    <loc>https://www.fransafu.dev/tags/</loc>
+    <lastmod>2022-04-23T05:39:58-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.fransafu.dev/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fransafu.dev/tags/"
+                />
+  </url><url>
+    <loc>https://www.fransafu.dev/tags/zsh/</loc>
+    <lastmod>2022-04-23T05:39:58-04:00</lastmod>
+  </url><url>
     <loc>https://www.fransafu.dev/series/zsh/</loc>
     <lastmod>2022-04-23T05:39:58-04:00</lastmod>
+  </url><url>
+    <loc>https://www.fransafu.dev/tags/reflexion/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.fransafu.dev/series/reflexion/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
@@ -62,18 +90,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.fransafu.dev/categories/"
-                />
-  </url><url>
-    <loc>https://www.fransafu.dev/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.fransafu.dev/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.fransafu.dev/tags/"
                 />
   </url>
 </urlset>
