@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Francisco Sánchez</title>
-    <link>https://www.fransafu.dev/</link>
-    <description>Recent content on Francisco Sánchez</description>
+    <title>EC2 on Francisco Sánchez</title>
+    <link>https://www.fransafu.dev/series/ec2/</link>
+    <description>Recent content in EC2 on Francisco Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 23 Apr 2022 05:39:58 -0400</lastBuildDate><atom:link href="https://www.fransafu.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Be Student, Be Teacher, Be Student</title>
-      <link>https://www.fransafu.dev/posts/2022/04/be-student-be-teacher-be-student/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.fransafu.dev/posts/2022/04/be-student-be-teacher-be-student/</guid>
-      <description>be student,
-be master,
-be student
-How should I start?
-You start to learn something new, challenge yourself, and seek mastery, then you realize that the horizon of knowledge expands, and you evaluate if you want to continue.
-Choose a new path. You order goals and objectives, conclude your priorities and make a decision.
-Do you feel sure of what you know? You teach, share and collaborate in expanding the horizon of knowledge.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 23 Apr 2022 05:39:58 -0400</lastBuildDate><atom:link href="https://www.fransafu.dev/series/ec2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Oh-My-Zsh on Amazon Linux</title>
       <link>https://www.fransafu.dev/posts/2022/04/install-oh-my-zsh-on-amazon-linux/</link>
