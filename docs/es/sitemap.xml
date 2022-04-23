@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fransafu.github.io/es/categories/</loc>
+    <loc>https://www.fransafu.dev/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fransafu.github.io/categories/"
+                href="https://www.fransafu.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fransafu.github.io/es/categories/"
+                href="https://www.fransafu.dev/es/categories/"
                 />
   </url><url>
-    <loc>https://fransafu.github.io/es/</loc>
+    <loc>https://www.fransafu.dev/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fransafu.github.io/"
+                href="https://www.fransafu.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fransafu.github.io/es/"
+                href="https://www.fransafu.dev/es/"
                 />
   </url><url>
-    <loc>https://fransafu.github.io/es/series/</loc>
+    <loc>https://www.fransafu.dev/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fransafu.github.io/series/"
+                href="https://www.fransafu.dev/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fransafu.github.io/es/series/"
+                href="https://www.fransafu.dev/es/series/"
                 />
   </url><url>
-    <loc>https://fransafu.github.io/es/tags/</loc>
+    <loc>https://www.fransafu.dev/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fransafu.github.io/tags/"
+                href="https://www.fransafu.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fransafu.github.io/es/tags/"
+                href="https://www.fransafu.dev/es/tags/"
                 />
   </url>
 </urlset>

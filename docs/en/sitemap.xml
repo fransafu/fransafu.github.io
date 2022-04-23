@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fransafu.github.io/posts/2022/04/be-student-be-teacher-be-student/</loc>
+    <loc>https://www.fransafu.dev/posts/2022/04/be-student-be-teacher-be-student/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fransafu.github.io/</loc>
-    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fransafu.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fransafu.github.io/"
-                />
-  </url><url>
-    <loc>https://fransafu.github.io/posts/</loc>
-    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fransafu.github.io/series/reflexion/</loc>
-    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fransafu.github.io/series/</loc>
+    <loc>https://www.fransafu.dev/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fransafu.github.io/es/series/"
+                href="https://www.fransafu.dev/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fransafu.github.io/series/"
+                href="https://www.fransafu.dev/"
                 />
   </url><url>
-    <loc>https://fransafu.github.io/categories/</loc>
+    <loc>https://www.fransafu.dev/posts/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fransafu.dev/series/reflexion/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fransafu.dev/series/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fransafu.github.io/es/categories/"
+                href="https://www.fransafu.dev/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fransafu.github.io/categories/"
+                href="https://www.fransafu.dev/series/"
                 />
   </url><url>
-    <loc>https://fransafu.github.io/tags/</loc>
+    <loc>https://www.fransafu.dev/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fransafu.github.io/es/tags/"
+                href="https://www.fransafu.dev/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fransafu.github.io/tags/"
+                href="https://www.fransafu.dev/categories/"
+                />
+  </url><url>
+    <loc>https://www.fransafu.dev/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.fransafu.dev/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fransafu.dev/tags/"
                 />
   </url>
 </urlset>
