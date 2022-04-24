@@ -13,8 +13,6 @@ series:
 - git
 ---
 
-# Git Commit Conventions
-
 Hi There!
 
 The commits conventions are very useful when trying to explain to a group of developers (maybe colleagues) about your changes. In the Code Review the implicit explanation of your changes is a powerful tool for their understanding and probably an advantage because you can complement your changes with your explanation, so that means you need a less time to explain and improves the understanding of the case to his colleagues.
