@@ -6,7 +6,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 23 Apr 2022 05:39:58 -0400</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 02:10:36 -0400</lastBuildDate>
         <atom:link href="https://www.fransafu.dev/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
@@ -36,6 +36,102 @@ be student</p>
 <p>Elegir un nuevo camino. Ordenas metas y objetivos, concluyes tus prioridades y tomas una decisión.</p>
 <p>Te sientes seguro de lo que sabes? Enseñas, compartes y colaboras en la expansión del horizonte de conocimiento.</p>
 <p>Encuentras algo nuevo, te llama la atención. Vuelves a ser estudiante.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Git Commit Conventions</title>
+            <link>https://www.fransafu.dev/posts/2022/04/git-commit-conventions/</link>
+            <pubDate>Sun, 24 Apr 2022 02:10:36 -0400</pubDate>
+            
+            <guid>https://www.fransafu.dev/posts/2022/04/git-commit-conventions/</guid>
+            <description>Hi There!
+The commits conventions are very useful when trying to explain to a group of developers (maybe colleagues) about your changes. In the Code Review the implicit explanation of your changes is a powerful tool for their understanding and probably an advantage because you can complement your changes with your explanation, so that means you need a less time to explain and improves the understanding of the case to his colleagues.</description>
+            <content type="html"><![CDATA[<p>Hi There!</p>
+<p>The commits conventions are very useful when trying to explain to a group of developers (maybe colleagues) about your changes. In the Code Review the implicit explanation of your changes is a powerful tool for their understanding and probably an advantage because you can complement your changes with your explanation, so that means you need a less time to explain and improves the understanding of the case to his colleagues.</p>
+<p>A few examples of commits using conventions are the follows</p>
+<ol>
+<li>As a developer, I add all the files for the home page</li>
+</ol>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">feat(web): Add home page
+</code></pre></div><ol start="2">
+<li>As a developer, I fix a problem in middleware validation</li>
+</ol>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">fix(middleware): Add validation when user is null
+</code></pre></div><p>So, how I can know the &ldquo;format&rdquo; to do commits with conventions? First of all, the following links are a &ldquo;guide&rdquo; to check but don&rsquo;t forget &ldquo;conventions are conventions, not a rule&rdquo;</p>
+<p>Links:</p>
+<ul>
+<li><a href="https://www.conventionalcommits.org/en/v1.0.0/">Conventional Commits</a></li>
+<li><a href="http://karma-runner.github.io/1.0/dev/git-commit-msg.html">Git commit msg</a></li>
+</ul>
+<p>Now, I leave you a table with the conventions that I usually use</p>
+<table>
+<thead>
+<tr>
+<th>format</th>
+<th>Name</th>
+<th>Description</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>feat</td>
+<td>Features</td>
+<td>Introduces a new feature to the codebase</td>
+<td>A new view, new service, new function or process</td>
+</tr>
+<tr>
+<td>fix</td>
+<td>Bug Fixes</td>
+<td>patches a bug in your codebase</td>
+<td>Validation if not null in a condición with that problem</td>
+</tr>
+<tr>
+<td>build</td>
+<td>Builds</td>
+<td>Changes that affect the build system or external dependencies</td>
+<td>Update a dependency or changes in the build project scripts</td>
+</tr>
+<tr>
+<td>docs</td>
+<td>Documentation</td>
+<td>Documentation only changes</td>
+<td>Add the documentation for run the project or test</td>
+</tr>
+<tr>
+<td>chore</td>
+<td>Chores</td>
+<td>Other changes that don&rsquo;t modify src or test files</td>
+<td>Changes IDE or editor code configs</td>
+</tr>
+<tr>
+<td>style</td>
+<td>Styles</td>
+<td>Changes that do not affect the meaning of the code</td>
+<td>White-space, formatting, missing semi-colons, etc</td>
+</tr>
+<tr>
+<td>refactor</td>
+<td>Code Refactoring</td>
+<td>A code change that neither fixes a bug nor adds a feature</td>
+<td>Rename filename, change variable names, etc</td>
+</tr>
+<tr>
+<td>test</td>
+<td>Tests</td>
+<td>Adding missing tests or correcting existing tests</td>
+<td>Add or modify unit test, e2e test, integration test, etc.</td>
+</tr>
+<tr>
+<td>ci</td>
+<td>Continuous Integrations</td>
+<td>Changes in CI configuration files and scripts</td>
+<td>Add or modify script for deploy, build, security, lint, etc.</td>
+</tr>
+</tbody>
+</table>
+<p>That&rsquo;s all, thanks for reading!</p>
 ]]></content>
         </item>
         
