@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>amazon on Francisco Sánchez</title>
-    <link>https://www.fransafu.dev/tags/amazon/</link>
-    <description>Recent content in amazon on Francisco Sánchez</description>
+    <title>amazon on Fransafu.dev</title>
+    <link>https://fransafu.dev/tags/amazon/</link>
+    <description>Recent content in amazon on Fransafu.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 23 Apr 2022 05:39:58 -0400</lastBuildDate><atom:link href="https://www.fransafu.dev/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 05:39:58 -0400</lastBuildDate>
+    <atom:link href="https://fransafu.dev/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Oh-My-Zsh on Amazon Linux</title>
-      <link>https://www.fransafu.dev/posts/2022/04/install-oh-my-zsh-on-amazon-linux/</link>
+      <link>https://fransafu.dev/blogs/install-oh-my-zsh-on-amazon-linux/</link>
       <pubDate>Sat, 23 Apr 2022 05:39:58 -0400</pubDate>
-      
-      <guid>https://www.fransafu.dev/posts/2022/04/install-oh-my-zsh-on-amazon-linux/</guid>
+      <guid>https://fransafu.dev/blogs/install-oh-my-zsh-on-amazon-linux/</guid>
       <description>Hi There!
 This is a short code snippet to install Oh-My-Zsh on Amazon Linux.
 TLDR
 sudo yum update -y sudo yum install -y zsh util-linux-user sudo chsh -s /usr/bin/zsh $USER sh -c &amp;#34;$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)&amp;#34; # Now, disconnect and reconnect to the EC2 instance Check the source in Github Gist</description>
     </item>
-    
   </channel>
 </rss>

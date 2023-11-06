@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reflexion on Francisco Sánchez</title>
-    <link>https://www.fransafu.dev/tags/reflexion/</link>
-    <description>Recent content in reflexion on Francisco Sánchez</description>
+    <title>reflexion on Fransafu.dev</title>
+    <link>https://fransafu.dev/tags/reflexion/</link>
+    <description>Recent content in reflexion on Fransafu.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.fransafu.dev/tags/reflexion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fransafu.dev/tags/reflexion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Be Student, Be Teacher, Be Student</title>
-      <link>https://www.fransafu.dev/posts/2022/04/be-student-be-teacher-be-student/</link>
+      <link>https://fransafu.dev/blogs/be-student-be-teacher/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.fransafu.dev/posts/2022/04/be-student-be-teacher-be-student/</guid>
+      <guid>https://fransafu.dev/blogs/be-student-be-teacher/</guid>
       <description>be student,
 be master,
 be student
@@ -22,6 +21,5 @@ You start to learn something new, challenge yourself, and seek mastery, then you
 Choose a new path. You order goals and objectives, conclude your priorities and make a decision.
 Do you feel sure of what you know? You teach, share and collaborate in expanding the horizon of knowledge.</description>
     </item>
-    
   </channel>
 </rss>

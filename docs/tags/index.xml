@@ -1,66 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Francisco Sánchez</title>
-    <link>https://www.fransafu.dev/tags/</link>
-    <description>Recent content in Tags on Francisco Sánchez</description>
+    <title>Tags on Fransafu.dev</title>
+    <link>https://fransafu.dev/tags/</link>
+    <description>Recent content in Tags on Fransafu.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 24 Apr 2022 02:10:36 -0400</lastBuildDate><atom:link href="https://www.fransafu.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 02:10:36 -0400</lastBuildDate>
+    <atom:link href="https://fransafu.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>git</title>
-      <link>https://www.fransafu.dev/tags/git/</link>
+      <link>https://fransafu.dev/tags/git/</link>
       <pubDate>Sun, 24 Apr 2022 02:10:36 -0400</pubDate>
-      
-      <guid>https://www.fransafu.dev/tags/git/</guid>
+      <guid>https://fransafu.dev/tags/git/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>amazon</title>
-      <link>https://www.fransafu.dev/tags/amazon/</link>
+      <link>https://fransafu.dev/tags/amazon/</link>
       <pubDate>Sat, 23 Apr 2022 05:39:58 -0400</pubDate>
-      
-      <guid>https://www.fransafu.dev/tags/amazon/</guid>
+      <guid>https://fransafu.dev/tags/amazon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ec2</title>
-      <link>https://www.fransafu.dev/tags/ec2/</link>
+      <link>https://fransafu.dev/tags/ec2/</link>
       <pubDate>Sat, 23 Apr 2022 05:39:58 -0400</pubDate>
-      
-      <guid>https://www.fransafu.dev/tags/ec2/</guid>
+      <guid>https://fransafu.dev/tags/ec2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>linux</title>
-      <link>https://www.fransafu.dev/tags/linux/</link>
+      <link>https://fransafu.dev/tags/linux/</link>
       <pubDate>Sat, 23 Apr 2022 05:39:58 -0400</pubDate>
-      
-      <guid>https://www.fransafu.dev/tags/linux/</guid>
+      <guid>https://fransafu.dev/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>zsh</title>
-      <link>https://www.fransafu.dev/tags/zsh/</link>
+      <link>https://fransafu.dev/tags/zsh/</link>
       <pubDate>Sat, 23 Apr 2022 05:39:58 -0400</pubDate>
-      
-      <guid>https://www.fransafu.dev/tags/zsh/</guid>
+      <guid>https://fransafu.dev/tags/zsh/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>reflexion</title>
-      <link>https://www.fransafu.dev/tags/reflexion/</link>
+      <link>https://fransafu.dev/tags/reflexion/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.fransafu.dev/tags/reflexion/</guid>
+      <guid>https://fransafu.dev/tags/reflexion/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
