@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Francisco Sánchez</title>
-    <link>https://fransafu.github.io/</link>
-    <description>Recent content on Francisco Sánchez</description>
+    <title>Fransafu.dev</title>
+    <link>https://fransafu.dev/</link>
+    <description>Recent content on Fransafu.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fransafu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 02:10:36 -0400</lastBuildDate>
+    <atom:link href="https://fransafu.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Commit Conventions</title>
+      <link>https://fransafu.dev/blogs/git-commit-conventions/</link>
+      <pubDate>Sun, 24 Apr 2022 02:10:36 -0400</pubDate>
+      <guid>https://fransafu.dev/blogs/git-commit-conventions/</guid>
+      <description>Hi There!
+The commits conventions are very useful when trying to explain to a group of developers (maybe colleagues) about your changes. In the Code Review the implicit explanation of your changes is a powerful tool for their understanding and probably an advantage because you can complement your changes with your explanation, so that means you need a less time to explain and improves the understanding of the case to his colleagues.</description>
+    </item>
+    <item>
+      <title>Install Oh-My-Zsh on Amazon Linux</title>
+      <link>https://fransafu.dev/blogs/install-oh-my-zsh-on-amazon-linux/</link>
+      <pubDate>Sat, 23 Apr 2022 05:39:58 -0400</pubDate>
+      <guid>https://fransafu.dev/blogs/install-oh-my-zsh-on-amazon-linux/</guid>
+      <description>Hi There!
+This is a short code snippet to install Oh-My-Zsh on Amazon Linux.
+TLDR
+sudo yum update -y sudo yum install -y zsh util-linux-user sudo chsh -s /usr/bin/zsh $USER sh -c &amp;#34;$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)&amp;#34; # Now, disconnect and reconnect to the EC2 instance Check the source in Github Gist</description>
+    </item>
     <item>
       <title>Be Student, Be Teacher, Be Student</title>
-      <link>https://fransafu.github.io/posts/2022/04/be-student-be-teacher-be-student/</link>
+      <link>https://fransafu.dev/blogs/be-student-be-teacher/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://fransafu.github.io/posts/2022/04/be-student-be-teacher-be-student/</guid>
+      <guid>https://fransafu.dev/blogs/be-student-be-teacher/</guid>
       <description>be student,
 be master,
 be student
@@ -22,6 +39,5 @@ You start to learn something new, challenge yourself, and seek mastery, then you
 Choose a new path. You order goals and objectives, conclude your priorities and make a decision.
 Do you feel sure of what you know? You teach, share and collaborate in expanding the horizon of knowledge.</description>
     </item>
-    
   </channel>
 </rss>

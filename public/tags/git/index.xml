@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Fransafu.dev</title>
+    <link>https://fransafu.dev/tags/git/</link>
+    <description>Recent content in git on Fransafu.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Apr 2022 02:10:36 -0400</lastBuildDate>
+    <atom:link href="https://fransafu.dev/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Commit Conventions</title>
+      <link>https://fransafu.dev/blogs/git-commit-conventions/</link>
+      <pubDate>Sun, 24 Apr 2022 02:10:36 -0400</pubDate>
+      <guid>https://fransafu.dev/blogs/git-commit-conventions/</guid>
+      <description>Hi There!
+The commits conventions are very useful when trying to explain to a group of developers (maybe colleagues) about your changes. In the Code Review the implicit explanation of your changes is a powerful tool for their understanding and probably an advantage because you can complement your changes with your explanation, so that means you need a less time to explain and improves the understanding of the case to his colleagues.</description>
+    </item>
+  </channel>
+</rss>
