@@ -1,15 +1,9 @@
 ---
 title: "Git Commit Conventions"
-linktitle: "Git Commit Conventions"
 date: 2022-04-24T02:10:36-04:00
-author:
-  name: "Francisco Sánchez"
-type:
-- post
-- posts
+draft: false
+author: "Fransafu"
 tags:
-- git
-series:
 - git
 ---
 

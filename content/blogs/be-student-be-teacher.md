@@ -1,16 +1,9 @@
 ---
 title: "Be Student, Be Teacher, Be Student"
-linktitle: "Be Student, Be Teacher, Be Student"
 date: 2022-04-16
-author:
-  name: "Francisco Sánchez"
-type:
-- post
-- posts
+draft: false
+author: "Fransafu"
 tags:
-- reflexion
-weight: 10
-series:
 - reflexion
 ---
 

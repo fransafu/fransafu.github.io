@@ -1,18 +1,9 @@
 ---
 title: "Install Oh-My-Zsh on Amazon Linux"
-linktitle: "Install Oh-My-Zsh on Amazon Linux"
 date: 2022-04-23T05:39:58-04:00
-author:
-  name: "Francisco Sánchez"
-type:
-- post
-- posts
+draft: false
+author: "Fransafu"
 tags:
-- zsh
-- ec2
-- amazon
-- linux
-series:
 - zsh
 - ec2
 - amazon
